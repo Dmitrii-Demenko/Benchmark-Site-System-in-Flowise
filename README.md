@@ -235,3 +235,4 @@ This application provides a complete analysis of websites across numerous parame
 ## Contact
 
 If you have any questions or suggestions for improving the application, please contact us.
+ 
